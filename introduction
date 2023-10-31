@@ -1,0 +1,31 @@
+# Introduction:
+1. What is Streaming?
+
+    Earlier, the videos used to be first uploaded on the platform, and then the users could watch the uploaded video on the same platform. 
+    But now, with the new emerging technologies, content creators are equipped with the option to upload the video and let the users watch simultaneously. 
+    The video is recorded by the camera and at the same being uploaded to the platform so that the users/viewers can watch it in real-time.
+
+    The concept of streaming in simple words is: The content creator records the video and the platform automatically uploads the video enabling the users to watch it at the same time when it is being uploaded.
+    Technically, the online video streaming setup looks like this:
+
+     1.  The camera captures RAW video
+     2.  Video is sent to the encoder via capture card or another hookup
+     3.  The encoder converts RAW video to a digital file
+     4.  Video is ingested into the online video platform
+     5. The video is distributed from the online video platform to the video player via a content delivery network
+     6.  The video player displays the stream on the viewer’s internet-enabled device
+
+
+2. The Evolution of Streaming.
+    The evolution of the streaming industry took its steps in the early 2000s 
+    when companies like Netflix and Hulu started offering online streaming services. 
+    Initially, these were mainly libraries of movies and TV shows that users were able to stream on their computers. 
+    Technological advancements and enhancements in internet infrastructure led to the rising popularity of these platforms and 
+    ultimately caused a decline in the use of physical media, such as DVDs and Blu-rays.
+
+    A key element behind the success of streaming platforms has been their focus on the creation of original content. 
+    Platforms such as Netflix, Amazon Prime Video, and Disney+ invested heavily in the production of high-quality original series and 
+    films resulting in a golden era of content creation, and diversifying storytelling opportunities.
+
+    Source: https://www.dacast.com/blog/video-streaming-technology/
+
