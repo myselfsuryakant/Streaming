@@ -15,10 +15,10 @@
       This prevention aims to ensure continuous play, even when there's a slight delay in receiving the next set of data packets.
 
     5. Decoding and Playing: Once a sufficient amount of data is buffered, your device begins to decode the data packets and output the file through your video player or music player. 
-      The data continues to stream in real-time, allowing you to view or listen to the content as it arrives.
+      The data continues to stream in real time, allowing you to view or listen to the content as it arrives.
 
     6. Adjusting Quality: Most streaming services have a feature that adjusts the quality of the content based on your internet connection speed. 
-      If the speed is high, you'll get high-quality content; if it's low, the service will adjust and send lower quality content to ensure continuous playback.
+      If the speed is high, you'll get high-quality content; if it's low, the service will adjust and send lower-quality content to ensure continuous playback.
 
 
   # Live-Streaming vs. On-demand Streaming:
@@ -26,7 +26,7 @@
       With live streaming, as the events occur, they are broadcast over the internet for viewers to watch in real-time. 
       Live streaming can be interactive, allowing viewers to respond or react to the content as it happens. 
       This form of streaming has become particularly popular with live events, such as sports, concerts, webinars, or TV shows, where sharing the experience in the moment is important.
-      Examples may include: Facebook live, Intagram Live, Youtube Live, Twicth
+      Examples may include: Facebook Live, Instagram Live, Youtube Live, Twitch 
 
   - On-Demand Streaming: It allows users to access pre-recorded audio or video files at their leisure. 
       Unlike broadcasting or live streaming, the content doesn't have a set start time. Instead, users can start, pause, stop, or replay the content according to their own schedule.
