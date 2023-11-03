@@ -1,0 +1,36 @@
+# The Technology Behind Streaming
+  # Understanding Data Transmission
+    How Streaming works?
+    1. Data Compression: High-quality video and audio files can be quite large in size. 
+      To facilitate smooth streaming over the internet, these files are first compressed to reduce their size. 
+      Several file formats and codecs are used for this purpose.
+
+    2. Breaking down the files: After compression, the files are then broken down into smaller packets of data. 
+      This breakdown enables the distribution of content over the internet in a more efficient manner.
+
+    3. Transmission: The small packets of data are then sent over the internet from the server (which hosts the file) to the client device (the user's computer or mobile gadget). 
+      This transmission typically uses a protocol such as TCP/IP or UDP.
+
+    4. Buffering: The client device receives the data packets and starts to buffer them. Buffering is a process where a portion of the file is pre-loaded before playback. 
+      This prevention aims to ensure continuous play, even when there's a slight delay in receiving the next set of data packets.
+
+    5. Decoding and Playing: Once a sufficient amount of data is buffered, your device begins to decode the data packets and output the file through your video player or music player. 
+      The data continues to stream in real-time, allowing you to view or listen to the content as it arrives.
+
+    6. Adjusting Quality: Most streaming services have a feature that adjusts the quality of the content based on your internet connection speed. 
+      If the speed is high, you'll get high-quality content; if it's low, the service will adjust and send lower quality content to ensure continuous playback.
+
+
+  # Live-Streaming vs. On-demand Streaming:
+    Live Streaming: Live streaming is a real-time transmission of audio, video, or both over the internet. 
+      With live streaming, as the events occur, they are broadcast over the internet for viewers to watch in real-time. 
+      Live streaming can be interactive, allowing viewers to respond or react to the content as it happens. 
+      This form of streaming has become particularly popular with live events, such as sports, concerts, webinars, or TV shows, where sharing the experience in the moment is important.
+      Examples may include: Facebook live, Intagram Live, Youtube Live, Twicth
+
+  - On-Demand Streaming: It allows users to access pre-recorded audio or video files at their leisure. 
+      Unlike broadcasting or live streaming, the content doesn't have a set start time. Instead, users can start, pause, stop, or replay the content according to their own schedule.
+      Examples may include Netflix, Amazon Prime, Hulu, and even YouTube.
+
+
+- Bitrates and Compression Techniques:
