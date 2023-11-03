@@ -1,9 +1,12 @@
 # The Technology Behind Streaming
   # Understanding Data Transmission
-    How Streaming works?
+    How does Streaming work?
     1. Data Compression: High-quality video and audio files can be quite large in size. 
       To facilitate smooth streaming over the internet, these files are first compressed to reduce their size. 
       Several file formats and codecs are used for this purpose.
+      There are different compression algorithms and formats, such as H.264, H.265, and VP9 for video, and MP3, AAC, and FLAC for audio. 
+      The choice of compression format impacts both the quality of the content and the efficiency of data transmission. 
+      Newer and more advanced compression techniques, like H.265 (also known as High-Efficiency Video Coding or HEVC), have significantly improved the quality-to-size ratio, allowing for higher-resolution streaming with reduced bandwidth requirements.
 
     2. Breaking down the files: After compression, the files are then broken down into smaller packets of data. 
       This breakdown enables the distribution of content over the internet in a more efficient manner.
@@ -23,7 +26,7 @@
 
   # Live-Streaming vs. On-demand Streaming:
     Live Streaming: Live streaming is a real-time transmission of audio, video, or both over the internet. 
-      With live streaming, as the events occur, they are broadcast over the internet for viewers to watch in real-time. 
+      With live streaming, as the events occur, they are broadcast over the internet for viewers to watch in real time. 
       Live streaming can be interactive, allowing viewers to respond or react to the content as it happens. 
       This form of streaming has become particularly popular with live events, such as sports, concerts, webinars, or TV shows, where sharing the experience in the moment is important.
       Examples may include: Facebook Live, Instagram Live, Youtube Live, Twitch 
@@ -34,3 +37,9 @@
 
 
 - Bitrates and Compression Techniques:
+    The bitrate refers to the rate at which data is transmitted per unit of time. 
+    It is typically measured in kilobits per second (Kbps) or megabits per second (Mbps). 
+    Higher bitrates generally result in better video and audio quality but require a faster internet connection.
+
+    Streaming services often use variable bitrate (VBR) encoding to optimize quality. 
+    With VBR, the encoder adjusts the bitrate based on the complexity of the content.   
